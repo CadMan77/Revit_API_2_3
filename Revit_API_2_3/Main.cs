@@ -1,4 +1,6 @@
-﻿using Autodesk.Revit.Attributes;
+﻿// Создать приложение, которое подсчитывает общее количество колонн в модели.
+
+using Autodesk.Revit.Attributes;
 using Autodesk.Revit.DB;
 using Autodesk.Revit.UI;
 using System;
